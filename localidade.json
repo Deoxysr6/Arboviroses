@@ -1,0 +1,6 @@
+{
+  "categoria": "string",
+  "descricao": "string",
+  "extrato": "string",
+  "zona": "string"
+}

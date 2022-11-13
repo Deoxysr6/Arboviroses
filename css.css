@@ -1,0 +1,12 @@
+#Telalogin{
+    width: 550px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    box-shadow: 5px 10px 50px rgb(69, 2, 78);
+}
+.btn {
+    border-color: blueviolet;
+    background-color: blueviolet;
+}

@@ -1,0 +1,13 @@
+{
+  "bairro": "string",
+  "complemento": "string",
+  "localidade": "string",
+  "logradouro": "string",
+  "numero": "string",
+  "observacao": "string",
+  "quarteirao": "string",
+  "sequencia": "string",
+  "telefoneRec": "string",
+  "telefoneR": "string",
+  "tipoImovel": "string"
+}
